@@ -20,7 +20,7 @@ This Employee Management System is a Java application that allows users to manag
 ## Usage
 
 - Upon launching the application, you will be presented with a login screen.
-- Enter your credentials to access the main dashboard (user with username 'jack' and password '123' is created by default).
+- Enter your credentials to access the main dashboard (account with username 'jack' and password '123' is created by default).
 - Use the navigation menu to manage employees, departments, work planning, and access accounts.
 - Follow the on-screen instructions to perform specific actions (create, update, delete, etc.).
 
